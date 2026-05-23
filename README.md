@@ -4,7 +4,7 @@
 
 I build end-to-end machine learning applications — from raw data pipelines to deployed web interfaces. My work sits at the intersection of predictive modeling, backend engineering, and data-driven decision-making.
 
-- 🔭 Currently: Final-year B.Tech CSE @ JIET, JNTUH (2026)
+- 🔭 Currently: Final-year B.Tech CSE @ IIET, JNTUH (2026)
 - 🧠 Focus: Supervised learning, feature engineering, Django-backed ML APIs
 - 🚀 Shipped: 2 live ML web apps handling datasets up to 7M+ records
 - 📍 Telangana, India · Open to remote and relocation
