@@ -43,7 +43,7 @@ I build end-to-end machine learning applications — from raw data pipelines to 
 Built a production-ready web application that predicts e-commerce purchase decisions in real time. Engineered a Random Forest pipeline on the JD.com dataset with user auth, admin dashboard, and live prediction interface.
 
 **Impact:** 99.45% accuracy · Discount features drive >50% of predictive power
-[→ Live App](https://customer-purchase-prediction-iwcrtwav5mxacwapuugkmo.streamlit.app) · [→ Code](https://github.com/sanaishrath/customer-purchase-prediction) · [→ Kaggle Notebook](https://kaggle.com/code/sana186/customer-purchase-prediction-ml-with-random-forest)
+[→ Live App](https://customer-purchase-prediction-iwcrtwav5mxacwapuugkmo.streamlit.app) · [→ Code](https://github.com/sanaishrath7860-dotcom/customer-purchase-prediction) · [→ Kaggle Notebook](https://kaggle.com/code/sana186/customer-purchase-prediction-ml-with-random-forest)
 
 ---
 
