@@ -67,7 +67,17 @@ Designed a full ML pipeline to predict food recipe ratings at scale. Applied cus
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanaishrath&layout=compact&theme=github_dark&hide_border=true)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+
+
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
 ---
 
