@@ -59,7 +59,14 @@ Designed a full ML pipeline to predict food recipe ratings at scale. Applied cus
 
 ## 📊 GitHub Stats
 
-![Sana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanaishrath...)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sanaishrath&theme=github-dark-blue&hide_border=true)
+
+
+
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanaishrath&layout=compact&theme=github_dark&hide_border=true)
 
 ---
